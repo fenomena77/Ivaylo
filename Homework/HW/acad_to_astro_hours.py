@@ -10,6 +10,7 @@ total_academical_minutes = academical_hour_total * academical_hour
 
 total_break_minutes = sessions * session_break
 
+
 total_time_minutes = total_academical_minutes + total_break_minutes
 
 total_time_astronomical_hours = total_time_minutes / stronomical_hour
